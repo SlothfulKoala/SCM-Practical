@@ -1,1 +1,2 @@
 Changes to File 1
+Some more changes to file 1 there was some configuration issue previously
